@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">app1</string>
+    <string name="button_1">Delete</string>
+    <string name="button_2">Edit</string>
+    <string name="button_3">+</string>
+
+    <string name="sample_text">cat</string>
+
+</resources>
